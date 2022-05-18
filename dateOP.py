@@ -1,8 +1,8 @@
-from datetime import datetime
+from datetime import date
 
-now = datetime.now()
+now = date.today()
 
 
-currentDateAndTime = datetime.now()
+currentDateAndTime = date.today()
 
 print("The current date and time is", currentDateAndTime)

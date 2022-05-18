@@ -1,4 +1,4 @@
 import dateOP
 
 
-print(dateOP.current_date())
+dateOP.current_date()
